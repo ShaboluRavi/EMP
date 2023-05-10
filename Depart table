@@ -1,0 +1,5 @@
+cerate table dept
+(
+dname varchar2(10),
+deptno number(10)
+);

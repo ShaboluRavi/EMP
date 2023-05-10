@@ -1,0 +1,6 @@
+create tabe emp
+(
+ENAME varchar2(10),
+ESAL number(10),
+DEPTNO number(10)
+);
